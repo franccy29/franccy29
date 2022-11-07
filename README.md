@@ -1,6 +1,6 @@
 - 👋 Hi, I’m François Martineau.
 - 👀 I’m interested in web developpement and much more.
-- 🌱 I’m currently learning Agular, Rust and .net core.
+- 🌱 I’m currently learning React, Angular, Rust and .net core.
 - 📫 How to reach me https://www.linkedin.com/in/francois-martineau97/
 
 <!---
